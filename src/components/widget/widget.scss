@@ -38,6 +38,7 @@
 
       &.positive {
         color: green;
+        transform: translateX(10px);
       }
       &.negative {
         color: red;
@@ -50,9 +51,5 @@
       border-radius: 5px;
       align-self: flex-end;
     }
-  }
-
-  .right {
-    display: block;
   }
 }
