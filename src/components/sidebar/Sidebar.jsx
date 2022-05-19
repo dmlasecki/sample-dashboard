@@ -58,10 +58,6 @@ const Sidebar = () => {
             <InsertChartIcon className="icon" />
             <span>Stats</span>
           </li>
-          <li>
-            <NotificationsNoneIcon className="icon" />
-            <span>Notifications</span>
-          </li>
           <p className="title">SERVICE</p>
           <li>
             <SettingsSystemDaydreamOutlinedIcon className="icon" />
